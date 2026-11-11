@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Romania, covering official tourism boards, national rail networks, Transylvanian castles, Carpathian mountain reserves, and digital nomad options.
 
+Romania is a fascinating Eastern European destination encompassing medieval Transylvanian fortresses, the Carpathian mountain range, painted monasteries, and the Danube Delta. This list is intended for cultural historians, medieval architecture explorers, mountain hikers, and eco-travelers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
